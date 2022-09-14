@@ -98,7 +98,7 @@ let mix = [1, 2, 3, "A", "B", "C", 4];
 4
 */
 for(let i = start7; i < mix.length; i++){
-    if(typeof mix[i] === "string" || i === mix[start7]-mix[start7]){ // professionals have their own ways
+    if(typeof mix[i] === "string" || mix[i] === +true){ // professionals have their own ways
         continue;
     }
     else{
