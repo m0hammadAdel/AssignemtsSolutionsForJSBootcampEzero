@@ -1,1 +1,1 @@
-document.addEventListener('click', e => console.log(e.target.nodeName))
+document.addEventListener('click', e => console.log(`This is ${e.target.nodeName}`));

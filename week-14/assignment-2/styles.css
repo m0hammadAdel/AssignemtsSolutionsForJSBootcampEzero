@@ -1,0 +1,37 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+  background-color: #eee;
+  box-shadow: 0 0 1px 1px #ccc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 450px;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: .3s;
+}
+
+.hide-container {
+  opacity: 0;
+  display: none;
+}
+
+.close-btn {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: red;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: -15px;
+  right: -15px;
+  cursor: pointer;
+}
