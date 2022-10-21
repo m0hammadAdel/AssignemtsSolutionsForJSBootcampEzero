@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Mohammad",
+    "section": "religion",
+    "title": "Prophet Muhammad's prayers",
+    "content": "While I was at Mecca the roof of my house was opened and Gabriel descended, opened my chest, and washed it with Zamzam water. Then he brought a golden tray full of wisdom and faith and having poured its contents into my chest, he closed it. Then he took my hand and ascended with me to the nearest heaven"
+  },
+  {
+    "id": "2",
+    "name": "Ali",
+    "section": "history",
+    "title": "French occupation in Egypt",
+    "content": "The French campaign in Egypt and Syria (1798–1801) was Napoleon Bonaparte's campaign in the Ottoman territories of Egypt and Syria, proclaimed to defend French trade interests, to establish scientific enterprise in the region and ultimately to join the forces of Indian ruler Tipu Sultan and drive away the British from the Indian subcontinent. It was the primary purpose of the Mediterranean campaign of 1798, a series of naval engagements that included the capture of Malta and the Greek island Crete, later arriving in the Port of Alexandria. The campaign ended in defeat for Napoleon, leading to the withdrawal of French troops from the region"
+  },
+  {
+    "id": "3",
+    "name": "Ahmed",
+    "section": "chemistry",
+    "title": "Organic Chemistry",
+    "content": "Organic chemistry is the study of the structure, properties, composition, reactions, and preparation of carbon-containing compounds. Most organic compounds contain carbon and hydrogen, but they may also include any number of other elements (e.g., nitrogen, oxygen, halogens, phosphorus, silicon, sulfur)."
+  },
+  {
+    "id": "4",
+    "name": "Asmaa",
+    "section": "science",
+    "title": "Atoms",
+    "content": "atom, smallest unit into which matter can be divided without the release of electrically charged particles. It also is the smallest unit of matter that has the characteristic properties of a chemical element. As such, the atom is the basic building block of chemistry."
+  },
+  {
+    "id": "5",
+    "name": "Sayed",
+    "section": "arts",
+    "title": "art in 80's",
+    "content": "Departing from the visually sparse and intellectual Minimalism and Conceptualism of the previous decade, the 1980s saw a proliferation of artistic approaches that included painting, photography, graffiti, and sculpture. Conservatism surged during the decade, a backlash to the radical countercultural efforts of the 1960s and 1970s, while booming economic growth dramatically revived the art market, bringing Neo-Expressionist painting, particularly the work of Julian Schnabel and Anselm Kiefer, to the fore in New York City, Italy, and Germany. A new visual culture emerged from the decade’s increase in consumption and mass media, and many artists responded to it, including Cindy Sherman, of the Pictures Generation; Neo-geo artist Jeff Koons; and East Village artist Jenny Holzer. As the Culture Wars played out during the decade’s end, many artists, such as Gran Fury, Nan Goldin, and Richard Serra, pushed back against right-wing politics as they fought to bring awareness to the AIDS epidemic and an end to censorship."
+  }
+]
